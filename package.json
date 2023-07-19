@@ -1,0 +1,19 @@
+{
+  "name": "socket-server-side",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon E:/programs/node.js_projects/socket-server-side/server/app.js"
+  },
+  "author": "Adham Al Gohary",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "nodemon": "^3.0.1",
+    "socket.io": "^4.7.1"
+  }
+}
